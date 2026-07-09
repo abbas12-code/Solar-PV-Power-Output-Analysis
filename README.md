@@ -1,4 +1,3 @@
-
 # ==========================================================
 # One-Week Solar PV Power Output Analysis
 # Author: Arslan Abbas
